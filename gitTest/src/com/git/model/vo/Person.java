@@ -1,8 +1,10 @@
-package com.model.vo;
+package com.git.model.vo;
 
 public class Person {
 	private String name;
 	private String addr;
+	
+	// 주석 추가
 	
 	public Person() {
 		// TODO Auto-generated constructor stub
