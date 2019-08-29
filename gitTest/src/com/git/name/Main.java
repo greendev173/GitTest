@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("내가 만든 것!");
 		
 		System.out.println("여러분 깃 재밌죠?");
+		System.out.println("두번째 추가");
 	}
 
 }
