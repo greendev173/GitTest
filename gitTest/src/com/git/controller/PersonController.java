@@ -1,6 +1,6 @@
 package com.git.controller;
 
-import com.model.vo.Person;
+import com.git.model.vo.Person;
 
 public class PersonController {
 
